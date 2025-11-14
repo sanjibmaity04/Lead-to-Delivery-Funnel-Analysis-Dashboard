@@ -1,5 +1,3 @@
-Here is a suggested structure and content for a GitHub repository README file for the project based on the dashboard image provided:
-
 ***
 
 # Lead-to-Delivery Funnel Analysis & Dashboard
