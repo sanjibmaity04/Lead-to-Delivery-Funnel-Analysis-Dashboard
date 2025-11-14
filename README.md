@@ -77,30 +77,11 @@ Clone or download the repo and use the provided scripts/notebooks to visualize y
 ***
 
 ## Requirements
-
-- Python 3.8+
-- pandas
-- matplotlib / seaborn
-- plotly / dash / streamlit (for interactive dashboards)
-- Jupyter Notebook
-
+Only EXCEL {ADVANCED}
 ***
 
 ## How to Run
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/lead-to-delivery-funnel-dashboard.git
-   cd lead-to-delivery-funnel-dashboard
-   ```
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Launch the analysis notebook or dashboard app as per the instructions in the `notebooks/` or `dashboard/` folder.
-4. Replace sample data in `data/` with your actual funnel data.
-
-***
+I uploaded the excel file u can check it
 
 ## Contributing
 
